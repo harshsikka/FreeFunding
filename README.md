@@ -1,4 +1,4 @@
-# FreeFunding
+# Free Funding
 A list of grants, fellowships, and programs to fund your startup or project! All of the following programs take no equity in return for funding your project and/or providing resources! Stay lean ;)
 
 <!-- List Programs Below -->
